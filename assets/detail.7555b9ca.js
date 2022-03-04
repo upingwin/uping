@@ -1,1 +1,0 @@
-import{G as s,s as n,m as o,n as e,y as r,z as u,F as c}from"./vendor.2a2ad3ae.js";var t={};const l=e("div",null,"Detial",-1),i={setup(p){const a=s();return(_,d)=>(n(),o(c,null,[e("div",null,r(u(a).query.input),1),l],64))}};typeof t=="function"&&t(i);export{i as default};
